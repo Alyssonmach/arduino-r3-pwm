@@ -7,9 +7,9 @@ Este projeto configura um sinal PWM no pino 9 do Arduino Uno R3 usando a bibliot
 
 - Placa: Arduino Uno R3  
 - Biblioteca: `PWM.h`  
-- Pino PWM: D9  
-- Frequência: 30 kHz  
-- Duty cycle fixo: 70%
+- Pino PWM: D9 (modificável)  
+- Frequência: 30 kHz (modificável)
+- Duty cycle fixo: 70% (modificável)
 
 ### Uso
 
